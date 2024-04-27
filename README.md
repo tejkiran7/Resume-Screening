@@ -14,3 +14,21 @@ This project is a resume screening application that uses Natural Language Proces
 
 ```bash
 git clone https://github.com/your-username/resume-screening-app.git
+
+2. Navigate to the project directory:
+
+```bash
+cd resume-screening-app
+
+3. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+
+## Usage
+1. Run the Streamlit application:
+
+```bash
+streamlit run app.py
+
+2. The application will open in your default web browser. Follow the on-screen instructions to upload resumes, configure screening criteria, and view the results.
