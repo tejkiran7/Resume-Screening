@@ -14,6 +14,7 @@ This project is a resume screening application that uses Natural Language Proces
 
 ```bash
 git clone https://github.com/your-username/resume-screening-app.git
+```bash
 
 2. Navigate to the project directory:
 
