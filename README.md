@@ -13,13 +13,13 @@ This project is a resume screening application that uses Natural Language Proces
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/resume-screening-app.git
+git clone https://github.com/tejkiran7/Resume-Screening.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd resume-screening-app
+cd Resume-Screening
 ```
 
 3. Install the required dependencies:
